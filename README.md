@@ -1,2 +1,2 @@
 # PT-LexicalSemantics
-Computational resources around lexical-semantic knowledge in Portuguese
+The PT-LexicalSemantics repository has moved to https://github.com/NLP-CISUC/PT-LexicalSemantics
